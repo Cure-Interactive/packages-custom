@@ -6,6 +6,8 @@ Small helper package currently containing shared repository-manifest utilities.
 
 Current version: `0.1.0`
 
+Expected GitHub URL: <https://github.com/Cure-Interactive/packages_custom>
+
 ## Files
 
 - `cure_repo_manifest.py`: helpers for loading, normalizing, updating, and saving repository manifest data
